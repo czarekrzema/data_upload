@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T07:29:20.254Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="JzwSFv1fvLNdB4w6zrFH" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T07:32:08.231Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="MmU5ZopfeSgOQLiIighx" version="22.1.7" type="github">
   <diagram name="Page-1" id="SAkfdAkROmwBlzYw7aj_">
     <mxGraphModel dx="819" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,14 +15,23 @@
             <mxPoint x="400" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CDrbMtdSPF2GD_K8pTHR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CDrbMtdSPF2GD_K8pTHR-6" target="CDrbMtdSPF2GD_K8pTHR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CDrbMtdSPF2GD_K8pTHR-6" value="WIO-E5 development kit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CDrbMtdSPF2GD_K8pTHR-7" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="520" y="210" as="sourcePoint" />
-            <mxPoint x="620" y="110" as="targetPoint" />
+        <mxCell id="CDrbMtdSPF2GD_K8pTHR-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="109.71000000000001" as="sourcePoint" />
+            <mxPoint x="590" y="109.71000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CDrbMtdSPF2GD_K8pTHR-12" value="Lora" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CDrbMtdSPF2GD_K8pTHR-13" value="Web server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
